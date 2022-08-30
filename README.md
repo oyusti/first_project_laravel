@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://img.shields.io/github/issues/oyusti/academy">
 <img src="https://img.shields.io/github/forks/oyusti/academy">
-<img src="https://img.shields.io/badge/status-Under_Development-green">
+<img src="https://img.shields.io/badge/status-Finished-red">
 <img src="https://img.shields.io/github/stars/oyusti?style=social"
 </p>
 
